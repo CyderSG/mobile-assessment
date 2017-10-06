@@ -20,8 +20,6 @@
 2. Support latest iOS version
 
 ## Tasks
-1. Come up with application technical design and must be able to elaborate and articular your design
+1. Come up with mobile app technical design and must be able to elaborate and articular your design
 2. Complete the deliverables using the framework as mentioned in Technical requirement above
 3. Elaborate the rationalle of the code development upon completion of the item-2 above
-
-
